@@ -1,2 +1,1 @@
-# attendance-using-face-recognition
-python project
+# face_recognition_flask
